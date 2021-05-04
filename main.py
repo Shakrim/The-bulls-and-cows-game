@@ -11,7 +11,6 @@ def main():
 
     # Generation of secret code
     generated_code = Generation_of_number(4)
-    print(generated_code)
 
     # Game parameters
     game_on = True
